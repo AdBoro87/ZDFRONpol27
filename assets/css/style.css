@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-around;
+    background: skyblue;
+    list-style: none;
+    padding: 20px 0 20px 0;
+}
+
+.nav-link {
+    
+}
+.hero {
+    width: 100vw;
+    height: 95vh;
+    background: #e67e22;
+}
+
+a {
+    color: black;
+}
